@@ -1,0 +1,41 @@
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\Chen\source\repos\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\Chen\source\repos\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\Chen\source\repos\Components - ass3\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\Chen\source\repos\Components - ass3\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache

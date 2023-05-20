@@ -1,0 +1,6 @@
+C:\Users\Chen\source\repos\Machine\Assembler\bin\Release\Assembler.exe
+C:\Users\Chen\source\repos\Machine\Assembler\bin\Release\Assembler.pdb
+C:\Users\Chen\source\repos\Machine\Assembler\obj\x86\Release\Assembler.csproj.AssemblyReference.cache
+C:\Users\Chen\source\repos\Machine\Assembler\obj\x86\Release\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\Machine\Assembler\obj\x86\Release\Assembler.exe
+C:\Users\Chen\source\repos\Machine\Assembler\obj\x86\Release\Assembler.pdb

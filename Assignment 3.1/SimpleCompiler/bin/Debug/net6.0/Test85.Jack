@@ -1,0 +1,3 @@
+global int x;
+function int max(int x, int y, int z){
+global array a;

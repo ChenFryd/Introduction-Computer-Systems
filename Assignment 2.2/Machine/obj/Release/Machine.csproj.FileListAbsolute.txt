@@ -1,0 +1,10 @@
+C:\Users\Chen\source\repos\Machine\bin\Release\Machine.exe.config
+C:\Users\Chen\source\repos\Machine\bin\Release\Machine.exe
+C:\Users\Chen\source\repos\Machine\bin\Release\Machine.pdb
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.csproj.AssemblyReference.cache
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.ScreenUI.resources
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.csproj.GenerateResource.cache
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.exe
+C:\Users\Chen\source\repos\Machine\obj\Release\Machine.pdb

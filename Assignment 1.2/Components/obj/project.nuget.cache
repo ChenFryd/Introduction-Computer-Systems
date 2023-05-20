@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UFTGT2KCapeRqNoCwRq8TkXNzBGyibc24k+Exq3XOqmbdCdHhknH0YphRtR5UXMl05zC1c43cKhwjuAQQ7yag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chen\\source\\repos\\Assignment 1.2 submission\\Components\\Components\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

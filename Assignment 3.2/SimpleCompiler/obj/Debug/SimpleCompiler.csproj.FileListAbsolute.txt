@@ -1,0 +1,22 @@
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe.config
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.AssemblyReference.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.AssemblyReference.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.exe
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.pdb
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe.config
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe
+C:\Users\Guy\OneDrive - BGU\Teaching\ECS\2022\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.pdb
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe.config
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.pdb
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.AssemblyReference.cache
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.exe
+C:\Users\Chen\source\repos\ex3\3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.pdb
